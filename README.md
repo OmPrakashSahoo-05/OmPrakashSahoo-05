@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OmPrakashSahoo-05
 - 👀 I’m interested in logic.
 - 🌱 I’m currently learning languages.
-- 💞️ I’m looking to collaborate on septocode.
+- 💞️ I’m looking to collaborate on septocode,hacktoberfest
 - 📫 How to reach me :Visit my profile:)
 
 <!---
